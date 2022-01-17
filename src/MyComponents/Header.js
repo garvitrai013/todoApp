@@ -24,7 +24,7 @@ export default function Header(props) {
             <button className="btn btn-outline-success" type="submit">Search</button>
           </form> : ""}
         </div>
-        <img src="images/icons8-todo-list-64-white.png"></img>
+        <img src="images/icons8-todo-list-64-white.png"  alt=""></img>
       </div>
     </nav>
   )
